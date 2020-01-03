@@ -1,6 +1,6 @@
 CSGO: WINGMAN competition on LAN. Come with your best wingman and grab the prize.
 1,2
-1:30,2:50
+1:30,2:50//changes
 Date: January 8-9, 2020 
 Time: 10 AM-4 PM (8th) 10 AM-2 PM (9th)
 Venue: ROOM no 106B,MSIT
